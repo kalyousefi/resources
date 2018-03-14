@@ -1,9 +1,9 @@
 # Resources
 #### Deep Learning in SLAM
 
-##### Future of SLAM
-
   **[1]** The Future of Real-Time SLAM and Deep Learning vs SLAM.[SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
+  
+  **[2]** A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation. [DispNet Docker](https://github.com/lmb-freiburg/dispnet-flownet-docker)
 
 ##### Depth and Pose
   **[1]** 	Tinghui Zhou, Matthew Brown, Noah Snavely, David G. Lowe:**Unsupervised Learning of Depth and Ego-Motion from Video. (2017)** :star::star::star::star::star: [Github Source code](https://github.com/tinghuiz/SfMLearner)
