@@ -6,11 +6,11 @@
   **[2]** A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation. [DispNet Docker](https://github.com/lmb-freiburg/dispnet-flownet-docker)
 
 ##### Depth and Pose
-  **[1]** 	Tinghui Zhou, Matthew Brown, Noah Snavely, David G. Lowe:**Unsupervised Learning of Depth and Ego-Motion from Video. (2017)** :star::star::star::star::star: [Github Source code](https://github.com/tinghuiz/SfMLearner)
+  **[1]** 	Tinghui Zhou, Matthew Brown, Noah Snavely, David G. Lowe: **Unsupervised Learning of Depth and Ego-Motion from Video. (2017)** :star::star::star::star::star: [Github Source code](https://github.com/tinghuiz/SfMLearner)
 
-  **[2]** 	Benjamin Ummenhofer, Huizhong Zhou, Jonas Uhrig, Nikolaus Mayer, Eddy Ilg, Alexey Dosovitskiy, Thomas Brox:**DeMoN: Depth and Motion Network for Learning Monocular Stereo. (2016).** [Github Source code](https://github.com/lmb-freiburg/demon)
+  **[2]** 	Benjamin Ummenhofer, Huizhong Zhou, Jonas Uhrig, Nikolaus Mayer, Eddy Ilg, Alexey Dosovitskiy, Thomas Brox: **DeMoN: Depth and Motion Network for Learning Monocular Stereo. (2016).** [Github Source code](https://github.com/lmb-freiburg/demon)
 
-  **[3]** 	Clément Godard, Oisin Mac Aodha, Gabriel J. Brostow:**Unsupervised Monocular Depth Estimation with Left-Right Consistency. (2016)**:star::star::star::star::star: [Github Source code](https://github.com/mrharicot/monodepth)
+  **[3]** 	Clément Godard, Oisin Mac Aodha, Gabriel J. Brostow: **Unsupervised Monocular Depth Estimation with Left-Right Consistency. (2016)**:star::star::star::star::star: [Github Source code](https://github.com/mrharicot/monodepth)
 
 ##### Others
   **[4]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
