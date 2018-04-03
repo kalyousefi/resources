@@ -1,18 +1,20 @@
 # Resources
-#### Deep Learning in SLAM
+### Deep Learning in SLAM
 
   **[1]** The Future of Real-Time SLAM and Deep Learning vs SLAM.[SLAM](http://www.computervisionblog.com/2016/01/why-slam-matters-future-of-real-time.html)
   
   **[2]** A Large Dataset to Train Convolutional Networks for Disparity, Optical Flow, and Scene Flow Estimation. [DispNet Docker](https://github.com/lmb-freiburg/dispnet-flownet-docker)
 
-##### Depth and Pose
+### Depth and Pose
   **[1]** 	Tinghui Zhou, Matthew Brown, Noah Snavely, David G. Lowe: **Unsupervised Learning of Depth and Ego-Motion from Video. (2017)** :star::star::star::star::star: [Github Source code](https://github.com/tinghuiz/SfMLearner)
 
   **[2]** 	Benjamin Ummenhofer, Huizhong Zhou, Jonas Uhrig, Nikolaus Mayer, Eddy Ilg, Alexey Dosovitskiy, Thomas Brox: **DeMoN: Depth and Motion Network for Learning Monocular Stereo. (2016).** [Github Source code](https://github.com/lmb-freiburg/demon)
 
   **[3]** 	Clément Godard, Oisin Mac Aodha, Gabriel J. Brostow: **Unsupervised Monocular Depth Estimation with Left-Right Consistency. (2016)**:star::star::star::star::star: [Github Source code](https://github.com/mrharicot/monodepth)
 
-##### Others
+### Surveys
+**-** Piasco, Nathan, et al.: **A survey on Visual-Based Localization: On the benefit of heterogeneous data** Pattern Recognition Elsevier (2018)
+### Others
   **[4]** 	Keisuke Tateno, Federico Tombari, Iro Laina, Nassir Navab:CNN-SLAM: Real-time dense monocular SLAM with learned depth prediction. cvpr(2017):star::star::star::star::star:
   
   **[5]** 	Vikram Mohanty, Shubh Agrawal, Shaswat Datta, Arna Ghosh, Vishnu Dutt Sharma, Debashish Chakravarty:DeepVO: A Deep Learning approach for Monocular Visual Odometry. CoRR abs/1611.06069 (2016)
@@ -31,10 +33,12 @@
   
   **[12]** 	Kishore Reddy Konda, Roland Memisevic:Unsupervised learning of depth and motion. CoRR abs/1312.3429 (2013)
   
+  **[-]** 	Iscen, Ahmet, et al.: **Panorama to panorama matching for location recognition**. Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval. ACM, (2017)
+  
   
 
   
-##### Optical Flow
+### Optical Flow
   **[12]** Slow Flow: Exploiting High-Speed Cameras for Accurate and Diverse Optical Flow Reference Data
   
   **[13]** 	Anurag Ranjan, Michael J. Black:Optical Flow Estimation using a Spatial Pyramid Network. CoRR abs/1611.00850 (2016)
